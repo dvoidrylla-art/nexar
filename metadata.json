@@ -1,0 +1,6 @@
+{
+  "name": "Kora - AI Business Operating System",
+  "description": "An intelligent AI business assistant and operating system for small businesses to manage sales, inventory, expenses, customer debts, and actionable insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
